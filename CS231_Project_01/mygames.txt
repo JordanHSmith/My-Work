@@ -1,0 +1,9 @@
+The player has 2 cards, the total of which is 7. The dealer has 2 cards, the total of which is 7. The player's score is 0, and the dealer's score is 0.
+4:The player has 3 cards, the total of which is 16. The dealer has 6 cards, the total of which is 20. The player's score is 0, and the dealer's score is 1.
+-1
+The player has 2 cards, the total of which is 7. The dealer has 2 cards, the total of which is 7. The player's score is 0, and the dealer's score is 1.
+4:The player has 3 cards, the total of which is 16. The dealer has 4 cards, the total of which is 17. The player's score is 0, and the dealer's score is 2.
+-1
+The player has 2 cards, the total of which is 5. The dealer has 2 cards, the total of which is 10. The player's score is 0, and the dealer's score is 2.
+4:The player has 4 cards, the total of which is 17. The dealer has 4 cards, the total of which is 20. The player's score is 0, and the dealer's score is 3.
+-1
